@@ -1,0 +1,82 @@
+.logo{
+    width:190px;
+}
+.donateNow{
+    background-color: #f1572b;
+}
+.takeAction{
+    background-color: #f79825;
+}
+body,html{
+    height: 100%;
+    margin: 0;
+}
+
+  .hero-text {
+    position: absolute;
+    top: 25%;
+    left: 10%;
+    color: white;
+  }
+  .hero-text h1{
+    font-weight: bold;
+    color: black;
+  }
+.text-maroon{
+color: #f1572b;
+}
+.boxPadding{
+    padding: 50px 122px;
+}
+.howCanHelp{
+  padding: 50px 150px 0px 122px;
+}
+.imageBox2{
+  background: url(assets/ea71bb_56d3b5b764f84384bfaf7860cb0a75d0_mv2_d_3872_2581_s_4_2.webp);
+  background-size:cover;
+  background-position: center;
+  height: 350px;
+
+}
+
+.imageBox1{
+  background: url(assets/ea71bb_dd2f1f404c7340198aaea2dd1fb7f406_mv2_d_3416_3415_s_4_2.webp);
+  background-size:cover;
+  height:700px;
+}
+
+.font-size-10{
+  font-size: 10vh
+}
+.howCanHelpRow{
+  height: 700px;
+}
+.howCanHelpCol{
+  height: 350px;
+}
+.footer{
+  position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    padding: 20px;
+}
+.suscribeBox input,.suscribeBox button{
+  height: 60px;
+}
+.suscribeBox{
+  position: relative;
+  bottom: -75px;
+}
+.form-control:focus {
+  box-shadow: none;
+}
+.input-text{
+  border:none;
+  border-bottom: 1px solid black;
+  border-radius: 0px;;
+  -webkit-border-radius: 0px;
+  -moz-border-radius: 0px;
+  -ms-border-radius: 0px;
+  -o-border-radius: 0px;
+}
